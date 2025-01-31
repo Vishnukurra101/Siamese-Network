@@ -1,4 +1,4 @@
-# Siamese Network for Cross-Domain Similarity Analysis of Numbers and Alphabets
+# Siamese Network for Image Similarity Analysis
 
 ## Overview
 This project focuses on cross-domain similarity analysis using a Siamese network architecture. The goal is to determine the similarity between pairs of numbers and alphabets.
